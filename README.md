@@ -2,6 +2,9 @@
 
 Привет!
 
+Меня зовут Илья Ильинский, я работаю главным аналитиком Депертамента анализа информации в одной из компаний энергетической отрасли.
+
+Я знаю #3776AB
 
 <!--
 **Prof410/prof410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
