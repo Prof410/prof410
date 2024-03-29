@@ -1,6 +1,6 @@
-### Привет! 
+### Hey! Nice to see you.
 
-### Data analyst
+### Data analyst.
 
 My name is Ilya Ilyinsky, I work as the chief analyst of the Information Analysis Department in one of the companies in the energy industry.
 
