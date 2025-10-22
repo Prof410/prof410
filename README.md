@@ -1,5 +1,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1> 
-![Header](https://github.com/user/user/blob/output/github-contribution-grid-snake.svg)
+https://github.com/user/user/blob/output/github-contribution-grid-snake.svg
+
 
 
 ### Hi there! 👋 My name is Ilya.
