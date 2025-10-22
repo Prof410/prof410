@@ -8,6 +8,9 @@
 
 Working in the energy sector, where I lead an analytics team and specialize in transforming complex data into strategic business solutions.
 
+
+![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=prof410&show_icons=true&theme=radical)
+
 ### 🛠 Tech Stack
 
 **Data Analysis:**
@@ -27,9 +30,9 @@ Working in the energy sector, where I lead an analytics team and specialize in t
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Connect with me:**
-[Your LinkedIn, email or other contacts here]
 
 
-### Contacts:
-<img alt="Ansible Role" src="https://img.shields.io/ansible/role/d/prof410/prof410">
+### 📫 How to reach me:
+
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/prof410)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prof410@yandex.ru)
