@@ -1,6 +1,4 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1> 
-<img src="https://github.com/user/user/blob/output/github-contribution-grid-snake.svg" height="32"/></h1> 
-
 
 ### Hi there! 👋 My name is Ilya.
 
@@ -10,6 +8,7 @@ Working in the energy sector, where I lead an analytics team and specialize in t
 
 
 ![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=prof410&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ### 🛠 Tech Stack
 
