@@ -1,14 +1,19 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1> 
-### Hey! Nice to see you.
 
-### Data analyst.
+### Hi there! 👋 My name is Ilya.
 
-My name is Ilya Ilyinsky, I work as the chief analyst of the Information Analysis Department in one of the companies in the energy industry.
+### Analytics Department Lead | Data Analyst
 
-### Technologies:
-<img src="https://img.shields.io/badge/Python-Blue?style=for-the-badge&logo=Python&logoColor=Blue"/>
+Working in the energy sector, where I lead an analytics team and specialize in transforming complex data into strategic business solutions.
 
-### Tools:
+**Tech Stack:**
+- **Data Analysis:** Python (Pandas, NumPy, SciPy), SQL
+- **Data Visualization:** Power BI, Matplotlib, Seaborn
+- **Tools:** Excel, Jupyter Notebook, Git
+
+**Connect with me:**
+[Your LinkedIn, email or other contacts here]
+
 
 ### Contacts:
 <img alt="Ansible Role" src="https://img.shields.io/ansible/role/d/prof410/prof410">
