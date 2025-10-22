@@ -7,8 +7,8 @@
 Working in the energy sector, where I lead an analytics team and specialize in transforming complex data into strategic business solutions.
 
 
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=prof410&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
 
 ### 🛠 Tech Stack
 
